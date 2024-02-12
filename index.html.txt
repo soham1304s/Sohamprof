@@ -1,8 +1,0 @@
-<html>
-<title> santu </title>
-<body>
-<header> Santu creation </header>
-<h1> Welcome </h1>
-<h2> hello </h2>
-</body>
-</html>
